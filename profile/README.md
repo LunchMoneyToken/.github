@@ -13,4 +13,7 @@
     restaurants through defi and web3 technology<b>.</b>
   </span>
 </p>
+
+<img max-width="100%" src="https://user-images.githubusercontent.com/49618856/185109642-aa518ba7-527a-4423-91bb-1a4c94c05d51.PNG"> 
+
 </div>
