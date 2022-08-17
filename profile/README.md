@@ -34,10 +34,17 @@
 <img width="45%" src='https://user-images.githubusercontent.com/49618856/185128803-504366cd-9638-4f7a-8436-cf6111be4d77.PNG'/>
   
 </div>
+<br/><br/><br/>
 
-<!-- <img max-width="100%" height='500px' src="https://user-images.githubusercontent.com/49618856/185109642-aa518ba7-527a-4423-91bb-1a4c94c05d51.PNG"> --> 
+![LunchMoney (12)](https://user-images.githubusercontent.com/49618856/185147387-255d00c7-13f1-45c4-be86-ae401ff8e46a.png)
+
+<hr/>
+
+![Screens](https://user-images.githubusercontent.com/49618856/185161888-4cbc2204-23d1-4544-a5e9-9a2358a0676b.png)
+![Screens (1)](https://user-images.githubusercontent.com/49618856/185166882-7ac194bd-a7ef-48f6-a081-a497b5bcf862.png)
+
+
 
 </div>
 
-<br/><br/><br/>
-![LunchMoney (12)](https://user-images.githubusercontent.com/49618856/185147387-255d00c7-13f1-45c4-be86-ae401ff8e46a.png)
+
