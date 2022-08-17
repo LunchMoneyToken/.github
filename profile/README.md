@@ -54,3 +54,12 @@
 ![w3](https://user-images.githubusercontent.com/49618856/185168616-efd30c17-7c80-47a0-a1d9-5e68f6b7afed.png)
 
 ![w4](https://user-images.githubusercontent.com/49618856/185168513-fb8d1f4f-9cea-4acc-9b16-7435e3efc0c9.png)
+
+<hr/>
+
+### Check out the pdf file below for additional information.
+[LunchMoney.Defi.Whitepaper.pdf](https://github.com/LunchMoneyToken/LunchMoney/files/9363766/LunchMoney.Defi.Whitepaper.pdf)
+
+<hr/>
+
+![built-with-love-lunch-money](https://user-images.githubusercontent.com/49618856/185173586-a26c7600-4a2a-4ab8-aed0-e67adc042465.svg)
