@@ -1,10 +1,11 @@
 ![LunchMoney](https://user-images.githubusercontent.com/49618856/185108020-d4e7e6d1-276b-4761-b761-b39dcefbc417.png)
-
+<hr/>
 <div align="center">
-<h1><b>Abstract</b></h1>
-<p>
+
+![LunchMoney (8)](https://user-images.githubusercontent.com/49618856/185119392-c4935ae2-280a-41e7-b179-f3ab06037224.png)
+<h4>
   <span>
-    <b>LunchMoney</b> is a decentralized loyalty rewards
+    LunchMoney is a decentralized loyalty rewards
     platform that incentivizes real feedback from
     restaurant customers with instant payments<b>.</b>
   </span>
@@ -12,7 +13,17 @@
     <b>LunchMoney</b> aims to bring the gig economy to
     restaurants through defi and web3 technology<b>.</b>
   </span>
-</p>
+</h4>
+
+<img src='https://user-images.githubusercontent.com/49618856/185115721-35e71cf4-ed0f-4ffe-b7c6-123af1c77a84.PNG'/>
+
+<br/><br/>
+<hr/>
+
+![LunchMoney (10)](https://user-images.githubusercontent.com/49618856/185124695-601317eb-1bad-4433-90f0-0d20072901a2.png)
+
+#### There's little to no incentivizes or loyalty rewards offered to restaurant customers for their patronage. Many customers don't take customer experience surveys because the rewards are often trivial. Customer Service can't improve without the customer's voice.
+
 
 <!-- <img max-width="100%" height='500px' src="https://user-images.githubusercontent.com/49618856/185109642-aa518ba7-527a-4423-91bb-1a4c94c05d51.PNG"> --> 
 
