@@ -20,11 +20,18 @@
 <br/><br/>
 <hr/>
 
+<br/>
+
 ![LunchMoney (10)](https://user-images.githubusercontent.com/49618856/185124695-601317eb-1bad-4433-90f0-0d20072901a2.png)
 
 #### There's little to no incentivizes or loyalty rewards offered to restaurant customers for their patronage. Many customers don't take customer experience surveys because the rewards are often trivial. Customer Service can't improve without the customer's voice.
+<br/>
+<hr/>
 
+![1](https://user-images.githubusercontent.com/49618856/185128783-882665bf-7004-403b-baac-288b2816db90.PNG)
+![2](https://user-images.githubusercontent.com/49618856/185128803-504366cd-9638-4f7a-8436-cf6111be4d77.PNG)
 
 <!-- <img max-width="100%" height='500px' src="https://user-images.githubusercontent.com/49618856/185109642-aa518ba7-527a-4423-91bb-1a4c94c05d51.PNG"> --> 
+
 
 </div>
