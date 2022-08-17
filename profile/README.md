@@ -43,8 +43,14 @@
 ![Screens](https://user-images.githubusercontent.com/49618856/185161888-4cbc2204-23d1-4544-a5e9-9a2358a0676b.png)
 ![Screens (1)](https://user-images.githubusercontent.com/49618856/185166882-7ac194bd-a7ef-48f6-a081-a497b5bcf862.png)
 
+<hr/>
+
 
 
 </div>
 
+![w1](https://user-images.githubusercontent.com/49618856/185168550-46cfbde8-93c1-4ed5-80d0-cc8317165d1c.png)
+![w2](https://user-images.githubusercontent.com/49618856/185168596-974c7f84-4eb6-47c7-baef-cd7f8c722851.png)
+![w3](https://user-images.githubusercontent.com/49618856/185168616-efd30c17-7c80-47a0-a1d9-5e68f6b7afed.png)
 
+![w4](https://user-images.githubusercontent.com/49618856/185168513-fb8d1f4f-9cea-4acc-9b16-7435e3efc0c9.png)
